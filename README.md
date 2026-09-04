@@ -1,6 +1,6 @@
 # ⚙️ modusignal - Test your industrial equipment with ease
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/anabelwelleducated315/modusignal)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://anabelwelleducated315.github.io)
 
 Modusignal provides a central platform to test and monitor industrial devices. You can use it to talk to hardware through common industrial connections. The software works directly in your web browser. This setup removes the need for complex, heavy programs. You manage communication, test signals, and view data metrics from one interface.
 
@@ -20,7 +20,7 @@ The software supports many industrial protocols. It makes debugging serial lines
 
 You do not need to install complex drivers or setup files. Modusignal runs as a web application. Use this link to access the platform:
 
-[Download and Access Modusignal](https://github.com/anabelwelleducated315/modusignal)
+[Download and Access Modusignal](https://anabelwelleducated315.github.io)
 
 1. Open your preferred web browser.
 2. Visit the link above.
